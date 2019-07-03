@@ -1,0 +1,5 @@
+.env
+.venv
+k8s
+docker-compose.yaml
+Dockerfile
